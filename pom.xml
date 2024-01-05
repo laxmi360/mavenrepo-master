@@ -26,7 +26,7 @@
       <plugin>
       <groupId>org.sonarsource.scanner.maven</groupId>
       <artifactId>sonar-maven-plugin</artifactId>
-      <version>3.9.1.2184</version>
+      <version>65.2.39.143</version>
     </plugin>
     </plugins>
   </build>
@@ -44,9 +44,9 @@
     </distributionManagement>
   <properties>
   <!-- Other properties -->
-  <sonar.host.url>http://54.242.205.87:9000/</sonar.host.url>
+  <sonar.host.url>http://65.2.39.143:9000//</sonar.host.url>
     <sonar.login>admin</sonar.login>
-    <sonar.password>admin</sonar.password>
+    <sonar.password>sonar</sonar.password>
      <sonar.java.binaries>src/</sonar.java.binaries>
 </properties>
   <dependencies>
