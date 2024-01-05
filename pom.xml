@@ -34,7 +34,7 @@
         <repository>
             <id>nexus</id>
             <name>student Releases</name>
-            <url>http://65.2.149.98:8081/repository/release/</url>
+            <url>http://65.2.149.98:8081/repository/nexus_task/</url>
         </repository>
         <snapshotRepository>
             <id>nexus</id>
